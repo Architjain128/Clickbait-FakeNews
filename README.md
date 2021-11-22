@@ -8,10 +8,11 @@
 ```
 
 ## Links
++ Github Repo : https://github.com/Architjain128/Clickbait-FakeNews
 + Dataset 1: https://zenodo.org/record/5530410#.YXrqehzhU2w
 + Dataset 2: https://github.com/laxmimerit/fake-real-news-dataset/tree/main/data
 + Presentation Video:  https://www.youtube.com/watch?v=yRhEFS0AUfU 
-
++ Previous Repo : https://github.com/Architjain128/Clickbait-FakeNews1
 ## File structure
 + `documents` : it has all the documents for deliverables 
 + `src`
