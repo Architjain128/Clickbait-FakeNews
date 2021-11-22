@@ -6,11 +6,14 @@
 > pip install -r requirements.txt
 > streamlit run main.py
 ```
+
+## Links
++ Dataset 1: https://zenodo.org/record/5530410#.YXrqehzhU2w
++ Dataset 2: https://github.com/laxmimerit/fake-real-news-dataset/tree/main/data
++ Presentation Video:  https://www.youtube.com/watch?v=yRhEFS0AUfU 
+
 ## File structure
 + `documents` : it has all the documents for deliverables 
-+ `dataset`
-    + `clickbait_dataset` : it has all the dataset used for the regression model used for prediction of clickbait score
-    + `fakenews_dataset` : it has all the dataset used for the classification model for labeling the article as fake or not
 + `src`
     + `clickbait` : contains the code for multiple algorithms used for clickbait predication model
         + `models`: all generated models are stored here
